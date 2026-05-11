@@ -1,4 +1,4 @@
-👋 Hi, I'm Furqan, and I am Atlarion
+👋 Hi, I'm Furqan
 
 
 <!---
