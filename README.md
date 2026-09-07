@@ -11,11 +11,6 @@ I am currently a Firmware Engineer at UBC MINT, working on the embedded layer be
 - Exploring Mercurion, a staged, non-invasive research build for neural-intent interfaces and assistive communication
 
 ## Featured work
-
-| Project | What it is |
-| --- | --- |
-| [Pattern OS](https://github.com/furqazaheervi6/Patttern-OS) | A personal intelligence system with four-pillar scoring, a 39-block activity-modifier model, Pearson correlations, AI-assisted journaling, planning, weekly digests, Google Calendar OAuth, Notion sync, and webhooks. [Live demo](https://patternos.vercel.app/) |
-| [EEG Quantitative Statistical Analysis](https://github.com/furqazaheervi6/EEG-Quantitative-Statistical-Analysis) | A public EEG analysis project using Mark IV Ultracortex data, including Fourier transforms, power spectral density, cross spectra, coherence, and phase-shift analysis. |
 | [Portfolio](https://github.com/furqazaheervi6/furqan-zaheer-portfolio) | The source for my portfolio, built with React and TanStack Start. [furq4n.com](https://furq4n.com) |
 
 ## Background
