@@ -12,7 +12,7 @@ My experience includes EEG signal processing and firmware work with UBC MINT. I�
 
 ## Work and learning
 
-- **[Portfolio](https://github.com/furqazaheervi6/portfolio)** · Current website source. [Visit furq4n.com](https://furq4n.com).
+- [Visit furq4n.com](https://furq4n.com).
 - **[EEG analysis](https://github.com/furqazaheervi6/EEG-Quantitative-Statistical-Analysis)** · Exploratory signal-processing code and notes. Not a validated end-to-end pipeline.
 - **[Road2OnDeckAI](https://github.com/furqazaheervi6/Road2OnDeckAI)** · Learning workspace. The current runnable slice is a tested Python text-statistics utility; the ML/CV work is a direction, not a completed result.
 
