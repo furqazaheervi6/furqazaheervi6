@@ -1,0 +1,27 @@
+{
+  "_comment": "Allowlist. Only repos listed here with enabled=true can appear in Featured projects or Recent activity. Anything not listed is never shown. State must be one of: Shipped, Built-unpublished, Designed. 'Proposed' is refused by the script. Forks and private repos are refused even if listed.",
+  "settings": {
+    "login": "furqazaheervi6",
+    "activity_window_days": 90,
+    "activity_limit": 5,
+    "activity_per_repo": 3
+  },
+  "projects": [
+    {
+      "repo": "furqazaheervi6/EEG-Quantitative-Statistical-Analysis",
+      "enabled": true,
+      "name": "EEG spectral and coherence analysis",
+      "state": "Built-unpublished",
+      "summary": "Exploratory Python script: epoching, FFT, power spectral density, cross-spectrum, coherence, phase shift. Runs on a simulated signal; not validated on recorded headset data.",
+      "show_activity": true
+    },
+    {
+      "repo": "furqazaheervi6/v2d-challenge",
+      "enabled": true,
+      "name": "NVIDIA Video-to-Data challenge, Track 1 baseline",
+      "state": "Built-unpublished",
+      "summary": "Reproducible setup plus a deterministic generator that produced a format-valid Track 1 submission scored on all five metrics. A placeholder baseline, not a reconstruction method.",
+      "show_activity": true
+    }
+  ]
+}
